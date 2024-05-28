@@ -1,0 +1,1 @@
+*.log\n*.tmp\n*.swp\n.DS_Store\nnode_modules/\nvendor/\n.env
